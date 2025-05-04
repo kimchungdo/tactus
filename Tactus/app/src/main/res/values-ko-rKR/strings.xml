@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tactus</string>
+    <string name="home">홈</string>
+    <string name="acitivity">운동</string>
+    <string name="goal">목표</string>
+    <string name="logs">기록</string>
+</resources>
