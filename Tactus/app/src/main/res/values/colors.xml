@@ -22,4 +22,9 @@
     <color name="cream">#F0EAD6</color>
     <color name="warm_taupe">#B09A8B</color>
     <color name="muted_olive">#6B8E23</color>
+
+    <color name="deep_teal">#2B5C4D</color>
+    <color name="muted_coral">#E66F5B</color>
+    <color name="soft_graphite">#3E3E3E</color>
+    <color name="ivory_paper">#F6F3EE</color>
 </resources>
