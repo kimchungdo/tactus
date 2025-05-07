@@ -5,7 +5,7 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.dorian.tactus.data.local.db.converter.ActivityTypeConverters
 import com.dorian.tactus.data.local.db.converter.OffsetDateTimeConverter
-import com.dorian.tactus.domain.model.ActivityType
+import com.dorian.tactus.data.local.db.entity.ActivityResult
 
 @TypeConverters(
     ActivityTypeConverters::class,
